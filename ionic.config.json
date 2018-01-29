@@ -1,0 +1,8 @@
+{
+  "name": "choresquad",
+  "app_id": "75c1748f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
